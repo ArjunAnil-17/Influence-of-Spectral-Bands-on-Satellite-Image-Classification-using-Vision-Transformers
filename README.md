@@ -1,0 +1,1 @@
+# Influence-of-Spectral-Bands-on-Satellite-Image-Classification-using-Vision-Transformers
